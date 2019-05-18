@@ -11,4 +11,4 @@
 7. RabbitMQ in Action
 8. Dependency Injection
 9. Building Maintainable Software, Java Edition
- 
+10. Go语言程序设计
